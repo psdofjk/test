@@ -1,0 +1,20 @@
+while true:
+    print("menu")
+    print("1")
+    print("2")
+    print("3")
+
+    opcion = input("selecciona")
+
+    if opcion == 1:
+    asdsad
+    elif opcion == 2:
+    asdsad
+    elif opcion == 3:
+    asdsadel
+    break
+    else:
+    print("opcion no valida")
+
+incorporacion de cruds y menus.
+
