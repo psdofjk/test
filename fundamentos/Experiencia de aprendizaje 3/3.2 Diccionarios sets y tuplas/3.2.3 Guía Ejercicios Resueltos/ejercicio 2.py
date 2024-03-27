@@ -1,0 +1,4 @@
+numeros = {}
+
+def esprimo():
+    for 

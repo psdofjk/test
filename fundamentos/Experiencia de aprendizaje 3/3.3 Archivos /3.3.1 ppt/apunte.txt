@@ -1,0 +1,20 @@
+Introduccion a los archivos:
+CSV:
+ -tipo de archivo donde cada linea signfica una fila de datos, son datos tabulares en texto plano.
+
+Json: 
+ -{"dato str": "dato1",
+   "dato int": 25,
+   "dato bool": true,
+    "dato doble":["dato4.1","dato4.2"]
+}
+
+txt:
+ -uno normalito sin mucho que agregar
+
+ 
+Abrir y cerrar archivos:
+
+Operaciones basicas:
+
+Reflexiones:
