@@ -1,0 +1,15 @@
+Listas: [x,y,z]
+matrices: [[x,y,z],[x,y,z],[x,y,z]]
+diccionarios: {a:b,c:d,e:f}
+conjuntos(sets): {a,b,c}
+tuplas: (a,b,c)
+
+lista.append(6)
+lista.insert(lugar,variable)
+lista.remove(variable)
+lista.reverse() = lista al reves
+lista.sort() = elementos de menor a mayor
+
+matriz = [[x,y,z],[x,y,z]] -> matriz 2x3 fila x columna
+matriz3d = [[]]
+
