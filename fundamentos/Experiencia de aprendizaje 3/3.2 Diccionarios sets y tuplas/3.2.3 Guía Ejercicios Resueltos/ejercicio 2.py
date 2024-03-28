@@ -1,4 +1,0 @@
-numeros = {}
-
-def esprimo():
-    for 

@@ -1,0 +1,25 @@
+for i in x:
+blabla blabla
+
+while x : 
+blablabla
+
+try:
+except
+
+try:
+#programa
+except (exepción) as nombre_excepcion:
+    #aqui se hace un ciclo 
+        print(f"Se produjo una excepción: {nombre_de_excepcion}")
+else:
+    #si no se producen errores se cumple este
+finally:
+    #este codigo se ejecuta siempre
+
+Las excepciones más comunes son:
+1. Divisiones por cero (10/0). -> ZeroDivisionError
+2. Tipos de datos incorrectos (Aparece cuando intentas concatenar una cadena con unnúmero. ) -> TypeError
+3. Error de valores (Se genera cuando hay un problema con el tipo o valor de losdatos que estás manipulando, como convertir una cadena no numérica a un número )- > ValueError
+4. Archivos no encontrados (Dar ubicaciones de archivo no existentes) ->FileNotFoundError
+5. Error de sintaxis (Se genera cuando hay un error de sintaxis en tu código ) ->SyntaxError
