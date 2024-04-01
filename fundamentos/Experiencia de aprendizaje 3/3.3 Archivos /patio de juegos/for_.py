@@ -15,7 +15,7 @@ print("Edades únicas presentes:", edades_unicas)
 print(edades_unicas2)
 
 diccionario = {"juan":23,"alberto":24,"fuguet":25}
-algo = {i:i for i in diccionario}
+algo = {i*2:i for i in diccionario}
 print(algo)
 algo = {i for i in diccionario if i == "juan"} # este funciona bien
 print(algo)
@@ -31,5 +31,6 @@ algo = [i for i in matriz]
 print(algo)
 
 listadetuplas = [("juan",23),("alberto",24),("fuguet",25)]
-algo = [i for i in listadetuplas]
+algo = [i*2 for i in listadetuplas]
 print(algo)
+

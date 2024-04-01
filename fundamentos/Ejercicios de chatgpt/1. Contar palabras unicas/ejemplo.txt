@@ -1,0 +1,4 @@
+Este es un ejemplo de archivo de texto.
+Puede contener palabras repetidas
+pero queremos contar solo las palabras únicas.
+Este archivo es solo para propósitos de ejemplo.

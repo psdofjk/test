@@ -1,0 +1,23 @@
+Aquí tienes algunos ejercicios sobre archivos en Python que involucran el uso de colecciones como listas, diccionarios, conjuntos, etc.:
+
+1. **Contar Palabras Únicas**: Lee un archivo de texto y cuenta cuántas palabras únicas hay en él.
+
+2. **Frecuencia de Palabras**: Lee un archivo de texto y cuenta la frecuencia de cada palabra en él.
+
+3. **Eliminar Duplicados**: Lee un archivo de texto, elimina las palabras duplicadas y guarda el resultado en un nuevo archivo.
+
+4. **Buscar Palabras Clave**: Lee un archivo de texto y encuentra todas las líneas que contienen ciertas palabras clave.
+
+5. **Generar Resumen**: Lee un archivo de texto y genera un resumen estadístico, como el número de palabras, líneas y caracteres.
+
+6. **Contar Caracteres Específicos**: Lee un archivo de texto y cuenta cuántas veces aparece un carácter específico (como 'a', 'b', etc.) en él.
+
+7. **Recopilar Datos Únicos**: Lee un archivo CSV o TSV y recopila datos únicos de una columna específica en un conjunto.
+
+8. **Generar Histograma**: Lee un archivo de texto y genera un histograma de la frecuencia de palabras.
+
+9. **Buscar y Reemplazar**: Lee un archivo de texto, busca una palabra específica y la reemplaza con otra palabra dada.
+
+10. **Crear Índice Invertido**: Lee un conjunto de documentos y crea un índice invertido que mapee cada palabra a los documentos en los que aparece.
+
+Estos ejercicios pueden ser modificados o extendidos según sea necesario.
